@@ -1,6 +1,12 @@
-# Welcome to your Expo app 👋
+# Projeto ToDoApp-RN 📱
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é um projeto simples criado para iniciar meus estudos em **React Native**. O objetivo é praticar conceitos básicos da tecnologia, como componentes, estados, estilização e navegação, desenvolvendo um aplicativo de lista de tarefas (ToDo).
+
+---
+
+## Documentação original
+
+Esta é a documentação padrão gerada pelo [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
